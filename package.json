@@ -18,7 +18,7 @@
     "generic-pool"  : "~2.2.0",
     "iconv"         : "~2.1.0",
     "ipaddr.js"     : "~1.0.1",
-    "semver"        : "~2.2.1",
+    "semver"        : "~7.3.2",
     "async"         : "~1.1.0",
     "daemon"        : "~1.1.0",
     "npid"          : "~0.4.0",
